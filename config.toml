@@ -1,0 +1,4 @@
+baseURL = 'https://prajakta.github.io/'
+languageCode = 'en-us'
+title = 'My Art Gallery'
+theme = 'newsroom'
