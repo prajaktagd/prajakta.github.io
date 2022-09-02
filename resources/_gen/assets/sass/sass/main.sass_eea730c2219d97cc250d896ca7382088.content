@@ -351,7 +351,7 @@ aside h3 {
   overflow: hidden;
   height: 15rem;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 15%;
 }
 
 @media screen and (min-width: 35rem) {
