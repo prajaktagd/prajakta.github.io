@@ -1,1 +1,5 @@
 pdfs/
+out/
+.DS_Store
+static/.DS_Store
+bin/
