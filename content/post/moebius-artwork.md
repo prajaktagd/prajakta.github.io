@@ -3,6 +3,7 @@ title: "Moebius Artwork"
 date: 2022-10-08T19:02:50+05:30
 draft: false
 image: "moebius-artwork.jpeg"
+tags: ["Imitation"]
 ---
 
 I came to know about Moebius from my friend Jayanth. He encouraged me to draw one of his artwork.

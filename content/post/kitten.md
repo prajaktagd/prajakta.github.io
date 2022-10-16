@@ -3,6 +3,7 @@ title: "Kitten"
 date: 2022-09-02T11:45:51+05:30
 draft: false
 image: "kitten.jpeg"
+tags: ["Animal", "Nature"]
 ---
 
 I have drawn this sketch referring a picture.
