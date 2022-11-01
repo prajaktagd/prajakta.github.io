@@ -3,7 +3,7 @@ title: "One point perspective drawing"
 date: 2022-09-07T21:08:00+05:30
 draft: false
 image: "7-sept-22.jpeg"
-tags: ["Perspective", "One point perspective"]
+tags: ["Practice", "Perspective", "One point perspective"]
 ---
 
 One point perspective is a drawing method used to draw objects on a flat drawing surface so that they look three-dimensional and realistic. It shows how things appear to get smaller when they get away, converging to a single vanishing point.
